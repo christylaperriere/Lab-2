@@ -1,0 +1,83 @@
+{
+	"name": [
+		"Shannon",
+		"Janise",
+		"Liam",
+		"Catrina",
+		"Martha",
+		"Steven",
+		"Louise",
+		"Harold"
+	],
+	"occupation": [
+		"miner",
+		"barber",
+		"billionaire",
+		"florist",
+		"chef",
+		"actor",
+		"waitor",
+		"pet groomer"
+	],
+	"origin": [
+		"#name# the #occupation# was #time# #action# a #adjective# #noun#. #Person# will #time# believe what #adjective2# thing #happened# next. "
+	],
+	"time": [
+		"often",
+		"usually",
+		"once",
+		"always",
+		"never",
+		"rarely",
+		"sometimes"
+	],
+	"action": [
+		"dreaming of",
+		"waiting for",
+		"suspecting",
+		"anticipating",
+		"fearing",
+		"imagining"
+	],
+	"adjective": [
+		"horrifying",
+		"harrowing",
+		"smiling",
+		"demented",
+		"frightening",
+		"loving",
+		"caring"
+	],
+	"noun": [
+		"child",
+		"rabbit",
+		"cotton swab",
+		"toothbrush",
+		"sweater",
+		"lover",
+		"sofa",
+		"mattress "
+	],
+	"Person": [
+		"You",
+		"Their preist",
+		"Our Overlords",
+		"Your mother",
+		"Your neighbor",
+		"Their father"
+	],
+	"adjective2": [
+		"crazy",
+		"wild",
+		"funky",
+		"political",
+		"controversial",
+		"perplexing"
+	],
+	"happened": [
+		"went down ",
+		"transpired",
+		"happened",
+		"occurred"
+	]
+}
